@@ -124,4 +124,4 @@ bot.registerCommand("close", (msg, args) => {
   cooldown: "3000"
 });
 
-client.login.process.env.427101737397125130);
+client.login.process.env.ivhPQZNrkHbfvrWABjBG7QIbRKvbgnUk);
