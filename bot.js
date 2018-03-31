@@ -124,4 +124,4 @@ bot.registerCommand("close", (msg, args) => {
   cooldown: "3000"
 });
 
-client.login.process.env.BOT_TOKEN);
+client.login.process.env.NDI3MTAxNzM3Mzk3MTI1MTMw.DaF6jQ.vN0dT1yI-gzsZL8LBYqMnvW-czE);
